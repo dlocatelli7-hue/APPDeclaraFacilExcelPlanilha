@@ -1,6 +1,6 @@
-🛠️ Tecnologias e Ferramentas
-Microsoft Excel / Office 365
-Ferramentas: Validação de Dados, Hiperlinks Internos, Formatação Condicional
+# 🛠️ Tecnologias e Ferramentas
+# Microsoft Excel / Office 365
+ Ferramentas: Validação de Dados, Hiperlinks Internos, Formatação Condicional
 
 # 📊 Agregador de Dados para Declaração de Imposto de Renda (IRPF) no Excel
 
