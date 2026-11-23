@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![DIO](https://img.shields.io/badge/DIO-Desafio_de_Projeto-blueviolet?style=for-the-badge)
 
-Projeto desenvolvido como parte do desafio da plataforma **DIO (Digital Innovation One)**, com o objetivo de criar uma ferramenta prática, interativa e automatizada no Microsoft Excel para organizar e consolidar rendimentos, despesas dedutíveis e informações financeiras para a Declaração de Imposto de Renda.
+Projeto desenvolvido como parte do desafio da plataforma **DIO **, com o objetivo de criar uma ferramenta prática, interativa e automatizada no Microsoft Excel para organizar e consolidar rendimentos, despesas dedutíveis e informações financeiras para a Declaração de Imposto de Renda.
 
 ---
 
